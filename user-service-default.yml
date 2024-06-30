@@ -1,0 +1,4 @@
+user:
+  name: MyApp (Dev)
+  description: This is a default environment.
+  version: 1.0.0-default
